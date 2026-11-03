@@ -1,5 +1,7 @@
 # 李继忠 · 个人作品集
 
+头图下方的四个模块带黑绿渐变动态波普网点背景。实现位于 `src/halftone.jsx`、`src/halftone.css`，共用本地 `public/halftone.svg` 遮罩；仅动画位移、旋转和缩放。离屏、页面隐藏、打开详情和减少动态效果模式下暂停。
+
 性能审查与优化结果见 [PERFORMANCE.md](PERFORMANCE.md)。当前页面使用本地系统字体、响应式 WebP 封面与延迟加载的分设备背景视频；未使用原始视频备份保存在不参与发布的 `media-originals/`。
 
 React + Vite 实现的个人作品集基础版本。版心最大 1700px，优先适配 PC，同时提供移动端布局。

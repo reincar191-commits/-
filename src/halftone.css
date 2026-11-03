@@ -1,0 +1,12 @@
+main>.section{position:relative;isolation:isolate}
+.halftone-backdrop{position:absolute;inset:0;z-index:-1;pointer-events:none;overflow:hidden;contain:paint;background:linear-gradient(120deg,#101110,#0b180f 75%,#0f2114);mask-image:linear-gradient(180deg,transparent,#000 12%,#000 88%,transparent);-webkit-mask-image:linear-gradient(180deg,transparent,#000 12%,#000 88%,transparent)}
+.halftone-glow{position:absolute;inset:0;background:radial-gradient(ellipse at 90% 65%,#325d293d,transparent 65%)}
+.halftone-field{position:absolute;right:-80px;bottom:-60px;width:min(100%,1100px);height:min(110%,1100px);background:linear-gradient(150deg,#0b1b10 8%,#274d28 40%,#639c43 72%,#aad974);mask-image:url('/halftone.svg');-webkit-mask-image:url('/halftone.svg');mask-size:600px 720px;-webkit-mask-size:600px 720px;mask-repeat:repeat;-webkit-mask-repeat:repeat;opacity:.24;transform-origin:80% 70%;animation:halftone-drift 26s cubic-bezier(.45,0,.55,1) infinite alternate;animation-play-state:paused}
+.halftone-backdrop::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#101110 0%,#101110c9 30%,#10111035 75%,transparent)}
+.halftone-backdrop[data-running="true"] .halftone-field{animation-play-state:running}
+#work .halftone-field{top:14%;bottom:auto;height:1080px;right:-40px;opacity:.2;animation-delay:-9s}
+#expertise .halftone-field{right:-20px;bottom:-120px;opacity:.22;animation-delay:-17s}
+#contact .halftone-field{right:-80px;opacity:.32;animation-delay:-5s}
+@keyframes halftone-drift{from{transform:translate3d(-18px,30px,0) rotate(-8deg) scale(.98)}to{transform:translate3d(22px,-35px,0) rotate(-3deg) scale(1.04)}}
+@media(max-width:700px){.halftone-field{width:100%;right:-50px;mask-size:360px 480px;-webkit-mask-size:360px 480px;opacity:.2}#work .halftone-field{right:-60px;height:900px}#contact .halftone-field{right:-40px;opacity:.27}.halftone-backdrop::after{background:linear-gradient(90deg,#101110e0,#10111050 70%,transparent)}}
+@media(prefers-reduced-motion:reduce){.halftone-field{animation:none;transform:rotate(-5deg)}}
