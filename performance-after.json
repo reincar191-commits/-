@@ -1,0 +1,286 @@
+[
+  {
+    "scenario": "desktop",
+    "requests": [
+      "http://127.0.0.1:4174/",
+      "http://127.0.0.1:4174/videos/hero-poster.webp",
+      "http://127.0.0.1:4174/assets/index-CEeD60vS.js",
+      "http://127.0.0.1:4174/assets/react-DsRUno5P.js",
+      "http://127.0.0.1:4174/assets/motion-C8IefbVz.js",
+      "http://127.0.0.1:4174/assets/index-Dcto5qEd.css",
+      "http://127.0.0.1:4174/icons/midjourney.svg",
+      "http://127.0.0.1:4174/icons/nanobanana.svg",
+      "http://127.0.0.1:4174/icons/openai.svg",
+      "http://127.0.0.1:4174/videos/hero-background.mp4"
+    ],
+    "errors": [],
+    "lcp": 372,
+    "cls": 0,
+    "longTasks": [
+      140
+    ],
+    "webgl": 0,
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-poster.webp",
+        "bytes": 14058,
+        "duration": 9
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-CEeD60vS.js",
+        "bytes": 9356,
+        "duration": 16
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/react-DsRUno5P.js",
+        "bytes": 69326,
+        "duration": 23
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-Dcto5qEd.css",
+        "bytes": 8377,
+        "duration": 17
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/motion-C8IefbVz.js",
+        "bytes": 45764,
+        "duration": 19
+      },
+      {
+        "url": "http://127.0.0.1:4174/favicon.ico",
+        "bytes": 300,
+        "duration": 2
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/midjourney.svg",
+        "bytes": 1940,
+        "duration": 7
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/nanobanana.svg",
+        "bytes": 972,
+        "duration": 7
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/openai.svg",
+        "bytes": 1190,
+        "duration": 7
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-background.mp4",
+        "bytes": 2877399,
+        "duration": 10
+      }
+    ],
+    "videoSource": "/videos/hero-background.mp4",
+    "videoPaused": false
+  },
+  {
+    "scenario": "mobile-reduced",
+    "requests": [
+      "http://127.0.0.1:4174/",
+      "http://127.0.0.1:4174/videos/hero-poster.webp",
+      "http://127.0.0.1:4174/assets/index-CEeD60vS.js",
+      "http://127.0.0.1:4174/assets/react-DsRUno5P.js",
+      "http://127.0.0.1:4174/assets/motion-C8IefbVz.js",
+      "http://127.0.0.1:4174/assets/index-Dcto5qEd.css",
+      "http://127.0.0.1:4174/icons/midjourney.svg",
+      "http://127.0.0.1:4174/icons/nanobanana.svg",
+      "http://127.0.0.1:4174/icons/openai.svg",
+      "http://127.0.0.1:4174/icons/deepseek.svg",
+      "http://127.0.0.1:4174/icons/codex.svg",
+      "http://127.0.0.1:4174/icons/bytedance.svg",
+      "http://127.0.0.1:4174/videos/trauma-poster.webp"
+    ],
+    "errors": [],
+    "lcp": 188,
+    "cls": 0,
+    "longTasks": [
+      116
+    ],
+    "webgl": 0,
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-poster.webp",
+        "bytes": 14058,
+        "duration": 8
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-Dcto5qEd.css",
+        "bytes": 8377,
+        "duration": 14
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-CEeD60vS.js",
+        "bytes": 9356,
+        "duration": 14
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/motion-C8IefbVz.js",
+        "bytes": 45764,
+        "duration": 18
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/react-DsRUno5P.js",
+        "bytes": 69326,
+        "duration": 19
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/midjourney.svg",
+        "bytes": 1940,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/openai.svg",
+        "bytes": 1190,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/nanobanana.svg",
+        "bytes": 972,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/bytedance.svg",
+        "bytes": 1173,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/deepseek.svg",
+        "bytes": 1448,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/codex.svg",
+        "bytes": 1030,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/trauma-poster.webp",
+        "bytes": 49048,
+        "duration": 16
+      }
+    ],
+    "videoSource": null,
+    "videoPaused": true
+  },
+  {
+    "scenario": "deep-link",
+    "requests": [
+      "http://127.0.0.1:4174/",
+      "http://127.0.0.1:4174/videos/hero-poster.webp",
+      "http://127.0.0.1:4174/assets/index-CEeD60vS.js",
+      "http://127.0.0.1:4174/assets/react-DsRUno5P.js",
+      "http://127.0.0.1:4174/assets/motion-C8IefbVz.js",
+      "http://127.0.0.1:4174/assets/index-Dcto5qEd.css",
+      "http://127.0.0.1:4174/icons/midjourney.svg",
+      "http://127.0.0.1:4174/icons/nanobanana.svg",
+      "http://127.0.0.1:4174/icons/openai.svg",
+      "http://127.0.0.1:4174/icons/deepseek.svg",
+      "http://127.0.0.1:4174/icons/codex.svg",
+      "http://127.0.0.1:4174/icons/bytedance.svg",
+      "http://127.0.0.1:4174/videos/trauma-poster.webp",
+      "http://127.0.0.1:4174/videos/dragon-heir-ep1.webp",
+      "http://127.0.0.1:4174/videos/dragon-heir-ep2.webp",
+      "http://127.0.0.1:4174/videos/neuro-god.webp",
+      "http://127.0.0.1:4174/videos/animal-whisperer-ep26.webp",
+      "http://127.0.0.1:4174/videos/animal-whisperer-ep27.webp"
+    ],
+    "errors": [],
+    "lcp": 392,
+    "cls": 0,
+    "longTasks": [
+      126
+    ],
+    "webgl": 0,
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-poster.webp",
+        "bytes": 14058,
+        "duration": 8
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-CEeD60vS.js",
+        "bytes": 9356,
+        "duration": 14
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/react-DsRUno5P.js",
+        "bytes": 69326,
+        "duration": 20
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/motion-C8IefbVz.js",
+        "bytes": 45764,
+        "duration": 17
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-Dcto5qEd.css",
+        "bytes": 8377,
+        "duration": 14
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/midjourney.svg",
+        "bytes": 1940,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/openai.svg",
+        "bytes": 1190,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/nanobanana.svg",
+        "bytes": 972,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/deepseek.svg",
+        "bytes": 1448,
+        "duration": 12
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/codex.svg",
+        "bytes": 1030,
+        "duration": 13
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/bytedance.svg",
+        "bytes": 1173,
+        "duration": 13
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/trauma-poster.webp",
+        "bytes": 49048,
+        "duration": 24
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/dragon-heir-ep1.webp",
+        "bytes": 20064,
+        "duration": 21
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/neuro-god.webp",
+        "bytes": 36314,
+        "duration": 21
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/dragon-heir-ep2.webp",
+        "bytes": 38342,
+        "duration": 21
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/animal-whisperer-ep26.webp",
+        "bytes": 26400,
+        "duration": 21
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/animal-whisperer-ep27.webp",
+        "bytes": 26748,
+        "duration": 21
+      }
+    ],
+    "videoSource": null,
+    "videoPaused": true
+  }
+]

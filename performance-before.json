@@ -1,0 +1,328 @@
+[
+  {
+    "scenario": "desktop",
+    "requests": [
+      "http://127.0.0.1:4174/",
+      "http://127.0.0.1:4174/assets/index-Eo33Jpnf.js",
+      "http://127.0.0.1:4174/assets/index-D5MOqEmj.css",
+      "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap",
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.118.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.117.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.115.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.114.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.109.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.87.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.119.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.116.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.111.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.108.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.113.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.90.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.106.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.112.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.102.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.88.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.105.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.110.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.66.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.104.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.101.woff2",
+      "http://127.0.0.1:4174/videos/hero-poster.jpg",
+      "http://127.0.0.1:4174/videos/hero-background.mp4"
+    ],
+    "errors": [],
+    "lcp": 2076,
+    "cls": 0,
+    "longTasks": [
+      132
+    ],
+    "webgl": 0,
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4174/assets/index-Eo33Jpnf.js",
+        "bytes": 124402,
+        "duration": 26
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-D5MOqEmj.css",
+        "bytes": 8463,
+        "duration": 15
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap",
+        "bytes": 186252,
+        "duration": 1808
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-poster.jpg",
+        "bytes": 39650,
+        "duration": 7
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-background.mp4",
+        "bytes": 2877399,
+        "duration": 174
+      },
+      {
+        "url": "http://127.0.0.1:4174/favicon.ico",
+        "bytes": 300,
+        "duration": 3
+      }
+    ],
+    "videoSource": "/videos/hero-background.mp4",
+    "videoPaused": false
+  },
+  {
+    "scenario": "mobile-reduced",
+    "requests": [
+      "http://127.0.0.1:4174/",
+      "http://127.0.0.1:4174/assets/index-Eo33Jpnf.js",
+      "http://127.0.0.1:4174/assets/index-D5MOqEmj.css",
+      "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap",
+      "http://127.0.0.1:4174/videos/hero-poster.jpg",
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.87.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.119.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.118.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.117.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.116.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.115.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.111.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.108.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.113.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.90.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.114.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.109.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.106.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.112.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.102.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.88.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.105.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.110.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.66.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.104.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.101.woff2",
+      "http://127.0.0.1:4174/icons/midjourney.svg",
+      "http://127.0.0.1:4174/icons/nanobanana.svg",
+      "http://127.0.0.1:4174/icons/openai.svg",
+      "http://127.0.0.1:4174/icons/deepseek.svg",
+      "http://127.0.0.1:4174/icons/codex.svg",
+      "http://127.0.0.1:4174/icons/bytedance.svg",
+      "http://127.0.0.1:4174/videos/trauma-poster.jpg",
+      "http://127.0.0.1:4174/videos/hero-background.mp4"
+    ],
+    "errors": [],
+    "lcp": 1448,
+    "cls": 0.00001629591346153846,
+    "longTasks": [
+      138
+    ],
+    "webgl": 0,
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4174/assets/index-Eo33Jpnf.js",
+        "bytes": 124402,
+        "duration": 20
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-D5MOqEmj.css",
+        "bytes": 8463,
+        "duration": 12
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap",
+        "bytes": 186252,
+        "duration": 1242
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-poster.jpg",
+        "bytes": 39650,
+        "duration": 4
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/midjourney.svg",
+        "bytes": 1940,
+        "duration": 16
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/nanobanana.svg",
+        "bytes": 972,
+        "duration": 16
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/openai.svg",
+        "bytes": 1190,
+        "duration": 16
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/deepseek.svg",
+        "bytes": 1448,
+        "duration": 18
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/codex.svg",
+        "bytes": 1030,
+        "duration": 18
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/bytedance.svg",
+        "bytes": 1173,
+        "duration": 16
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/trauma-poster.jpg",
+        "bytes": 70145,
+        "duration": 1567
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-background.mp4",
+        "bytes": 300,
+        "duration": 1581
+      }
+    ],
+    "videoSource": "/videos/hero-background.mp4",
+    "videoPaused": true
+  },
+  {
+    "scenario": "deep-link",
+    "requests": [
+      "http://127.0.0.1:4174/",
+      "http://127.0.0.1:4174/assets/index-Eo33Jpnf.js",
+      "http://127.0.0.1:4174/assets/index-D5MOqEmj.css",
+      "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap",
+      "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.118.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.117.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.115.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.114.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.109.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.87.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.119.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.116.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.111.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.108.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.113.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.90.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.106.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.112.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.102.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.88.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.105.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.110.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.66.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.104.woff2",
+      "https://fonts.gstatic.com/s/notosanssc/v41/k3kXo84MPvpLmixcA63oeALhLOCT-xWNm8Hqd37g1OkDRZe7lR4sg1IzSy-MNbE9VH8V.101.woff2",
+      "http://127.0.0.1:4174/videos/hero-poster.jpg",
+      "http://127.0.0.1:4174/videos/trauma-poster.jpg",
+      "http://127.0.0.1:4174/videos/hero-background.mp4",
+      "http://127.0.0.1:4174/videos/dragon-heir-ep1.jpg",
+      "http://127.0.0.1:4174/videos/dragon-heir-ep2.jpg",
+      "http://127.0.0.1:4174/videos/neuro-god.jpg",
+      "http://127.0.0.1:4174/videos/animal-whisperer-ep26.jpg",
+      "http://127.0.0.1:4174/videos/animal-whisperer-ep27.jpg",
+      "http://127.0.0.1:4174/icons/midjourney.svg",
+      "http://127.0.0.1:4174/icons/nanobanana.svg",
+      "http://127.0.0.1:4174/icons/openai.svg",
+      "http://127.0.0.1:4174/icons/deepseek.svg",
+      "http://127.0.0.1:4174/icons/codex.svg",
+      "http://127.0.0.1:4174/icons/bytedance.svg"
+    ],
+    "errors": [],
+    "lcp": 1140,
+    "cls": 0.018608970295764783,
+    "longTasks": [
+      141
+    ],
+    "webgl": 0,
+    "resources": [
+      {
+        "url": "http://127.0.0.1:4174/assets/index-Eo33Jpnf.js",
+        "bytes": 124402,
+        "duration": 19
+      },
+      {
+        "url": "http://127.0.0.1:4174/assets/index-D5MOqEmj.css",
+        "bytes": 8463,
+        "duration": 11
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap",
+        "bytes": 186252,
+        "duration": 757
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-poster.jpg",
+        "bytes": 39650,
+        "duration": 7
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/trauma-poster.jpg",
+        "bytes": 70145,
+        "duration": 10
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/hero-background.mp4",
+        "bytes": 300,
+        "duration": 2001
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/dragon-heir-ep1.jpg",
+        "bytes": 92556,
+        "duration": 1992
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/dragon-heir-ep2.jpg",
+        "bytes": 132724,
+        "duration": 1995
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/neuro-god.jpg",
+        "bytes": 56403,
+        "duration": 2000
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/animal-whisperer-ep26.jpg",
+        "bytes": 52595,
+        "duration": 2000
+      },
+      {
+        "url": "http://127.0.0.1:4174/videos/animal-whisperer-ep27.jpg",
+        "bytes": 50933,
+        "duration": 2004
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/midjourney.svg",
+        "bytes": 1940,
+        "duration": 1712
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/nanobanana.svg",
+        "bytes": 972,
+        "duration": 1561
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/openai.svg",
+        "bytes": 1190,
+        "duration": 1398
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/deepseek.svg",
+        "bytes": 1448,
+        "duration": 1244
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/codex.svg",
+        "bytes": 1030,
+        "duration": 1087
+      },
+      {
+        "url": "http://127.0.0.1:4174/icons/bytedance.svg",
+        "bytes": 1173,
+        "duration": 925
+      }
+    ],
+    "videoSource": "/videos/hero-background.mp4",
+    "videoPaused": true
+  }
+]
