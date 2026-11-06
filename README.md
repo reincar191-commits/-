@@ -1,5 +1,7 @@
 # 李继忠 · 个人作品集
 
+视频播放优先使用低码率 720p，支持自动选择、480p、720p 与 1080p。自动模式在持续缓冲时降至 480p，切换画质保留进度；1080p 清晰版仍保留。所有分档文件均需随 `public/videos/` 一起提交并部署。Render 线上站点需要部署新的代码与视频后才生效。
+
 头图下方的四个模块带黑绿渐变动态波普网点背景。实现位于 `src/halftone.jsx`、`src/halftone.css`，共用本地 `public/halftone.svg` 遮罩；仅动画位移、旋转和缩放。离屏、页面隐藏、打开详情和减少动态效果模式下暂停。
 
 性能审查与优化结果见 [PERFORMANCE.md](PERFORMANCE.md)。当前页面使用本地系统字体、响应式 WebP 封面与延迟加载的分设备背景视频；未使用原始视频备份保存在不参与发布的 `media-originals/`。
@@ -43,7 +45,7 @@ AI 工具区位于 `src/ai-tools.jsx`，悬浮交互样式位于 `src/interactio
 
 ## 分集短剧《末代龙裔》
 
-项目紧接《创伤》，包含两集竖屏视频。按原文件顺序：`dragon heir.mp4` 为第 1 集（约 171 秒），`the last dragon heir2.mp4` 为第 2 集（约 105 秒），合计约 276 秒；项目简介沿用提供的“270秒”创作描述。网页副本为 `public/videos/dragon-heir-ep1.mp4`、`dragon-heir-ep2.mp4`，1080×1920，30fps，H.264/AAC，约 65MB。E 盘源文件未修改。
+项目紧接《创伤》，包含两集竖屏视频。2026年11月6日已按新提供的《the last dragon heir ep1》《the last dragon heir ep2》完整替换，集号仍为第1、2集，简介沿用提供的270秒创作描述。当前视频为 `public/videos/dragon-heir-20261106-ep1.mp4`、`dragon-heir-20261106-ep2.mp4`，另有对应 `-720.mp4`、`-480.mp4` 分档和 WebP 封面。文件名带版本日期以避免沿用线上旧缓存，原始 E 盘文件未修改。
 
 `src/series-player.jsx` 提供选集按钮；切换时卸载旧播放器，关闭详情停止播放。封面来自两集影片真实画面，卡片为双竖屏拼排。
 
@@ -54,3 +56,5 @@ AI 工具区位于 `src/ai-tools.jsx`，悬浮交互样式位于 `src/interactio
 ## 《百万富翁的动物耳语者》
 
 作品位于《神经也是神》下方，收录 EP26 和 EP27，分集编号与原文件一致。视频位于 `public/videos/animal-whisperer-ep26.mp4`、`animal-whisperer-ep27.mp4`，对应 JPG 是真实影片封面。简介和 Libtv、ChatGPT、Deepseek、剪映制作分工来自提供的说明。原始 E 盘文件未修改，播放保持完整画幅与声音。
+
+2026年11月6日更新：作品《百万富翁的动物耳语者》已用新提供的 Mia's Wild Wonderland EP26、EP27 替换，仍位于《神经也是神》下方，保留第26、27集编号。新文件前缀为 `mia-wild-wonderland-20261106-ep26`、`mia-wild-wonderland-20261106-ep27`，配套480p、720p、1080p及两种尺寸WebP封面。英文展示名同步更新为 MIA’S WILD WONDERLAND。

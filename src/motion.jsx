@@ -1,4 +1,4 @@
-import React, {useLayoutEffect} from 'react';
+import React, {useLayoutEffect,useEffect} from 'react';
 import {gsap} from 'gsap';
 import {ScrollTrigger} from 'gsap/ScrollTrigger';
 import './motion.css';
@@ -8,7 +8,8 @@ gsap.registerPlugin(ScrollTrigger);
 export function Opening(){return <div className="opening" aria-hidden="true"><div className="opening-panel opening-panel-top"/><div className="opening-panel opening-panel-bottom"/><div className="opening-caption"><span>LIJIZHONG®</span><span>CRAFTING WHAT’S NEXT.</span><span className="opening-count">00</span></div><div className="opening-rule"/></div>}
 export function MotionHeading({children}){return <div className="motion-heading" aria-hidden="true"><span>{children}</span><i>↗</i></div>}
 
-export function usePortfolioMotion(filter){
+export function usePortfolioMotion(filter,paused=false){
+ useEffect(()=>{if(!paused)return;const wasPaused=gsap.globalTimeline.paused();gsap.globalTimeline.pause();return()=>{if(!wasPaused)gsap.globalTimeline.resume()}},[paused]);
  useLayoutEffect(()=>{
   const mm=gsap.matchMedia();
   mm.add('(prefers-reduced-motion: no-preference)',()=>{
