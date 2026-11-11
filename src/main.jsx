@@ -17,6 +17,42 @@ const projects = [
  {id:'02',name:'《末代龙裔》',en:'THE LAST DRAGON HEIR / FANTASY SERIES',category:'AI 影像',type:'film',poster:'/videos/dragon-heir-20261106-ep1.webp',episodes:[{src:'/videos/dragon-heir-20261106-ep1.mp4',poster:'/videos/dragon-heir-20261106-ep1.webp'},{src:'/videos/dragon-heir-20261106-ep2.mp4',poster:'/videos/dragon-heir-20261106-ep2.webp'}],desc:'270秒海外真人奇幻题材短剧。被巨龙收养长大的伊凡归来，回归王国，在隐藏实力、装逼打脸的同时调查当年母亲去世的真相。此作品主要用于展示作者海外剧的制作水平。',tools:'Libtv / ChatGPT / Deepseek / 剪映',process:[{tool:'Libtv',task:'画面制作与镜头调度'},{tool:'ChatGPT',task:'剧本创作与分镜拆解'},{tool:'Deepseek',task:'台词打磨与内容逻辑梳理'},{tool:'剪映',task:'视频剪辑'}]},
  {id:'03',name:'《仙门有点神》',en:'NEURO GOD / 3D ANIMATION',category:'AI 影像',type:'film',video:'/videos/neuro-god.mp4',poster:'/videos/neuro-god.webp',badge:'3D 国漫 / 近身打戏',desc:'90秒3D国漫，讲述女主在各种神经过头的宗门之间斡旋的反差日常。此作品主要用于展现作者对于贴身打戏的制作水平。',tools:'Libtv / ChatGPT / Deepseek / 剪映',process:[{tool:'Libtv',task:'画面制作与镜头调度'},{tool:'ChatGPT',task:'剧本创作与分镜拆解'},{tool:'Deepseek',task:'台词打磨与内容逻辑梳理'},{tool:'剪映',task:'视频剪辑'}]},
  {id:'04',name:'《百万富翁的动物耳语者》',en:'MIA’S WILD WONDERLAND',coverLines:['MIA’S WILD','WONDERLAND'],seriesLabel:'海外真人短剧 / EP26—27',badge:'海外真人短剧 / 第26—27集',category:'AI 影像',type:'film',poster:'/videos/mia-wild-wonderland-20261106-ep26.webp',episodes:[{number:26,src:'/videos/mia-wild-wonderland-20261106-ep26.mp4',poster:'/videos/mia-wild-wonderland-20261106-ep26.webp'},{number:27,src:'/videos/mia-wild-wonderland-20261106-ep27.mp4',poster:'/videos/mia-wild-wonderland-20261106-ep27.webp'}],desc:'140秒海外真人题材短剧。被富豪收养的米娅拥有和动物对话的能力，并以此逃脱二叔亚瑟为她制造的各种困境。此作品主要用于展示作者海外剧的制作水平。',tools:'Libtv / ChatGPT / Deepseek / 剪映',process:[{tool:'Libtv',task:'画面制作与镜头调度'},{tool:'ChatGPT',task:'剧本创作与分镜拆解'},{tool:'Deepseek',task:'台词打磨与内容逻辑梳理'},{tool:'剪映',task:'视频剪辑'}]},
+ {
+  id:'05',
+  name:'《THE WITCH OF WINDVALE》',
+  en:'LIVE-ACTION FANTASY / SHORT FILM',
+  category:'AI 影像',
+  type:'film',
+  video:'/videos/witch-of-windvale.mp4',
+  poster:'/videos/witch-of-windvale.webp',
+  badge:'海外真人奇幻短剧',
+  desc:'60秒海外真人奇幻题材短剧，以女巫 Aria 为主角。她能够催生作物，并用自己的能力带领村民过上富足的生活。这部作品展示了我在海外短剧方面的制作能力。',
+  tools:'Libtv / ChatGPT / Deepseek / 剪映',
+  process:[
+   {tool:'Libtv',task:'画面制作与镜头调度'},
+   {tool:'ChatGPT',task:'剧本创作与分镜拆解'},
+   {tool:'Deepseek',task:'台词打磨与内容逻辑梳理'},
+   {tool:'剪映',task:'视频剪辑'},
+  ],
+ },
+ {
+  id:'06',
+  name:"《My husband's dream girl fell for me》",
+  en:'LIVE-ACTION GL / SHORT DRAMA',
+  category:'AI 影像',
+  type:'film',
+  video:'/videos/dream-girl.mp4',
+  poster:'/videos/dream-girl.webp',
+  badge:'海外真人短剧 / GL',
+  desc:'80秒海外真人 GL 短剧。Aria 为钱嫁入豪门，陪丈夫演戏，却意外和丈夫真正的梦中情人相爱。这部作品展示了我在海外短剧方面的制作能力。',
+  tools:'Libtv / ChatGPT / Deepseek / 剪映',
+  process:[
+   {tool:'Libtv',task:'画面制作与镜头调度'},
+   {tool:'ChatGPT',task:'剧本创作与分镜拆解'},
+   {tool:'Deepseek',task:'台词打磨与内容逻辑梳理'},
+   {tool:'剪映',task:'视频剪辑'},
+  ],
+ },
 ];
 
 
